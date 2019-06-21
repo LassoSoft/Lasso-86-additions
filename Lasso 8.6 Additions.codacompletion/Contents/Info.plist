@@ -2,28 +2,28 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>CodaAuthorString</key>
-	<string>LassoSoft Inc.</string>
-	<key>CodaDescriptionString</key>
-	<string>Lasso 8.6 autocompletion additions</string>
-	<key>CodaIconMaskTintString</key>
-	<string>#4428ac</string>
 	<key>CFBundleIdentifier</key>
 	<string>com.lassosoft.coda.completions.lasso.8.6-additions</string>
 	<key>CFBundleName</key>
 	<string>Lasso 8.6 Additions</string>
-	<key>NSHumanReadableCopyright</key>
-	<string>LassoSoft Inc.</string>
 	<key>CFBundleShortVersionString</key>
 	<string>1.0</string>
 	<key>CFBundleVersion</key>
 	<string>1.0</string>
+	<key>NSHumanReadableCopyright</key>
+	<string>LassoSoft Inc.</string>
 	<key>CFBundleGetInfoString</key>
 	<string>1.0, Copyright LassoSoft Inc. 2015</string>
 	<key>CFBundlePackageType</key>
 	<string>BNDL</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
+	<key>CodaAuthorString</key>
+	<string>LassoSoft Inc.</string>
+	<key>CodaDescriptionString</key>
+	<string>Lasso 8.6 autocompletion additions</string>
+	<key>CodaIconMaskTintString</key>
+	<string>#4428ac</string>
 	<key>ModeIdentifiers</key>
 	<array>
 		<string>SEEMode.Lasso-HTML</string>
